@@ -25,14 +25,17 @@ namespace ArbolBinario1
             try
             {
                 tbxFormula.Text = ServicioSepararStrings.quitarEspaciosEnBlanco(tbxFormula.Text);
-                if(!ServicioSepararStrings.tieneParentesis(tbxFormula.Text))
+                if (!ServicioSepararStrings.tieneParentesis(tbxFormula.Text))
                 {
                     tbxFormula.Text = ServicioSepararStrings.ponerParentesisExternos(tbxFormula.Text);
                 }
-                Nodo raiz = new Nodo(tbxFormula.Text);
-                ServicioArbolBinario.setRaiz(raiz);
-                ServicioArbolBinario.crearArbol(raiz);
-                MessageBox.Show("¡Se creo el arbol correctamente!");
+                if (ServicioSepararStrings.verificarParentesis(tbxFormula.Text))
+                {
+                    Nodo raiz = new Nodo(tbxFormula.Text);
+                    ServicioArbolBinario.setRaiz(raiz);
+                    ServicioArbolBinario.crearArbol(raiz);
+                    MessageBox.Show("¡Se creo el arbol correctamente!");
+                }
             }
             catch (FormulaExeption er)
             {

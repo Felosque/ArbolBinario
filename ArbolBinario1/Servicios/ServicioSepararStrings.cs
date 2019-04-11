@@ -35,10 +35,7 @@ namespace ArbolBinario1.servicios
                 }
             }
 
-            if (true)
-            {
-                throw new FormulaExeption("¡La formula esta mal formada!");
-            }
+            throw new FormulaExeption("¡La formula esta mal formada!");
         }
 
         public static String[] separarCadenasOperadorCentral(String pCadena, int pPos)
@@ -78,12 +75,10 @@ namespace ArbolBinario1.servicios
                 if (caracter1 == '(' && caracter2 == '(')
                 {
                     contador++;
-                    Console.WriteLine("Entro ñero");
                 }
                 else if (caracter1 == ')' && caracter2 == ')')
                 {
                     contador--;
-                    Console.WriteLine("Entro ñero2");
                 }
             }
             Console.WriteLine(contador);
@@ -239,8 +234,9 @@ namespace ArbolBinario1.servicios
 
         public static Boolean verificarParentesis(String pCadena)
         {
+            Console.WriteLine(pCadena);
             Boolean res = false;
-            if(darNumeroDeParentesis(pCadena)*2 == darNumeroDeParentesis(pCadena))
+            if(darNumeroDeOperadores(pCadena)*2 == darNumeroDeParentesis(pCadena))
             {
                 res = true;
             }

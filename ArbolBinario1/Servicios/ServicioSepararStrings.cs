@@ -146,6 +146,7 @@ namespace ArbolBinario1.servicios
             }
             else if (operadores[1] == "/")
             {
+                if (num2 == 0) { ServicioArbolBinario.setRaiz(null); throw new FormulaExeption("¡No se puede dividir sobre 0!"); }
                 res = num1 / num2;
             }
 

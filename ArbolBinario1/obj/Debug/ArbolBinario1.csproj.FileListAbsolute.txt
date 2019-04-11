@@ -1,0 +1,45 @@
+C:\Users\profesor lugo\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.exe.config
+C:\Users\profesor lugo\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.exe
+C:\Users\profesor lugo\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.pdb
+C:\Users\profesor lugo\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.csprojResolveAssemblyReference.cache
+C:\Users\profesor lugo\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.Form1.resources
+C:\Users\profesor lugo\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.Properties.Resources.resources
+C:\Users\profesor lugo\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.csproj.GenerateResource.Cache
+C:\Users\profesor lugo\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.exe
+C:\Users\profesor lugo\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.pdb
+D:\Documentos_Asus\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.exe.config
+D:\Documentos_Asus\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.exe
+D:\Documentos_Asus\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.pdb
+D:\Documentos_Asus\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.exe
+D:\Documentos_Asus\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.pdb
+D:\Documentos_Asus\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.csprojResolveAssemblyReference.cache
+D:\Documentos_Asus\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.Form1.resources
+D:\Documentos_Asus\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.Properties.Resources.resources
+D:\Documentos_Asus\Desktop\EjemploArbolBinario1\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\ArbolBinario\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.exe.config
+C:\Users\usuario\Desktop\ArbolBinario\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.exe
+C:\Users\usuario\Desktop\ArbolBinario\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.pdb
+C:\Users\usuario\Desktop\ArbolBinario\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.exe
+C:\Users\usuario\Desktop\ArbolBinario\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.pdb
+C:\Users\usuario\Desktop\ArbolBinario\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ArbolBinario\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.Form1.resources
+C:\Users\usuario\Desktop\ArbolBinario\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.Properties.Resources.resources
+C:\Users\usuario\Desktop\ArbolBinario\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.csproj.GenerateResource.Cache
+D:\Documentos_Asus\Desktop\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.exe.config
+D:\Documentos_Asus\Desktop\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.exe
+D:\Documentos_Asus\Desktop\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.pdb
+D:\Documentos_Asus\Desktop\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.exe
+D:\Documentos_Asus\Desktop\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.pdb
+D:\Documentos_Asus\Desktop\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.csprojResolveAssemblyReference.cache
+D:\Documentos_Asus\Desktop\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.Form1.resources
+D:\Documentos_Asus\Desktop\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.Properties.Resources.resources
+D:\Documentos_Asus\Desktop\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.csproj.GenerateResource.Cache
+D:\Documentos_Asus\Documents\Visual Studio 2015\Projects\ArbolBinario\ArbolBinario1\bin\Debug\ArbolBinario1.exe.config
+D:\Documentos_Asus\Documents\Visual Studio 2015\Projects\ArbolBinario\ArbolBinario1\obj\Debug\ArbolBinario1.exe
+D:\Documentos_Asus\Documents\Visual Studio 2015\Projects\ArbolBinario\ArbolBinario1\obj\Debug\ArbolBinario1.pdb
+D:\Documentos_Asus\Documents\Visual Studio 2015\Projects\ArbolBinario\ArbolBinario1\obj\Debug\ArbolBinario1.csprojResolveAssemblyReference.cache
+D:\Documentos_Asus\Documents\Visual Studio 2015\Projects\ArbolBinario\ArbolBinario1\obj\Debug\ArbolBinario1.Form1.resources
+D:\Documentos_Asus\Documents\Visual Studio 2015\Projects\ArbolBinario\ArbolBinario1\obj\Debug\ArbolBinario1.Properties.Resources.resources
+D:\Documentos_Asus\Documents\Visual Studio 2015\Projects\ArbolBinario\ArbolBinario1\obj\Debug\ArbolBinario1.csproj.GenerateResource.Cache
+D:\Documentos_Asus\Documents\Visual Studio 2015\Projects\ArbolBinario\ArbolBinario1\bin\Debug\ArbolBinario1.exe
+D:\Documentos_Asus\Documents\Visual Studio 2015\Projects\ArbolBinario\ArbolBinario1\bin\Debug\ArbolBinario1.pdb
